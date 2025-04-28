@@ -1,0 +1,81 @@
+{
+	"groups": [
+		{
+			"keys": "login_startbtn_down_png,login_startbtn_up_png",
+			"name": "login"
+		},
+		{
+			"keys": "loading_track_pb_png,loading_thumb_pb_png",
+			"name": "loading"
+		},
+		{
+			"keys": "levels_json",
+			"name": "config"
+		},
+		{
+			"keys": "2_png,3_png,4_png,1_png,5_png",
+			"name": "game"
+		},
+		{
+			"keys": "bgm_1_mp3",
+			"name": "sound"
+		}
+	],
+	"resources": [
+		{
+			"url": "login/login_startbtn_down.png",
+			"type": "image",
+			"name": "login_startbtn_down_png"
+		},
+		{
+			"url": "login/login_startbtn_up.png",
+			"type": "image",
+			"name": "login_startbtn_up_png"
+		},
+		{
+			"url": "loading/loading_track_pb.png",
+			"type": "image",
+			"name": "loading_track_pb_png"
+		},
+		{
+			"url": "loading/loading_thumb_pb.png",
+			"type": "image",
+			"name": "loading_thumb_pb_png"
+		},
+		{
+			"url": "config/levels.json",
+			"type": "json",
+			"name": "levels_json"
+		},
+		{
+			"url": "game/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "game/3.png",
+			"type": "image",
+			"name": "3_png"
+		},
+		{
+			"url": "game/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "game/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "game/5.png",
+			"type": "image",
+			"name": "5_png"
+		},
+		{
+			"url": "sound/bgm_1.mp3",
+			"type": "sound",
+			"name": "bgm_1_mp3"
+		}
+	]
+}

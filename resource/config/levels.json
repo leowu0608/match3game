@@ -1,0 +1,12 @@
+[
+  {"level": 1, "target": 100, "time": 180},
+  {"level": 2, "target": 120, "time": 180},
+  {"level": 3, "target": 150, "time": 180},
+  {"level": 4, "target": 160, "time": 170},
+  {"level": 5, "target": 170, "time": 170},
+  {"level": 6, "target": 180, "time": 160},
+  {"level": 7, "target": 190, "time": 160},
+  {"level": 8, "target": 200, "time": 150},
+  {"level": 9, "target": 210, "time": 140},
+  {"level": 10, "target": 250, "time": 120}
+]

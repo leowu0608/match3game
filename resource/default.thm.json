@@ -1,0 +1,14 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/skins/BoardItemSkin.exml",
+		"resource/skins/GameSkin.exml",
+		"resource/skins/ProgressBarSkin.exml",
+		"resource/skins/LoadingSkin.exml",
+		"resource/skins/StartButtonSkin.exml",
+		"resource/skins/LoginSkin.exml",
+		"resource/skins/ResultSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
